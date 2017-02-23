@@ -1,0 +1,13 @@
+
+
+  IMPORTANT!
+
+Prog can understand basic syntax as specified in assignment as seen from my sample b.bas
+
+It can solve arithmetic statements, read numerical input, print results as needed
+
+Format of my if statement: if x < y then goto 10  /* as example*/ It won't understand if 'goto' is missing.
+
+Prog cannot understand arrays and ifloating numbers
+
+
